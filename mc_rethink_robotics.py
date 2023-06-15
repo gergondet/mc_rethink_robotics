@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+#
+# Copyright 2019 CNRS-UM LIRMM, CNRS-AIST JRL
+#
+
 import mc_control
 import mc_rbdyn
 import mc_rtc
